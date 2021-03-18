@@ -8,8 +8,7 @@ Si vous n'êtes pas encore au courant du DeepFake, en voici une petite illustrat
 ## Prérequis
 
 Mais comme l'on obtient rien sans rien, ce tuto nécessite quelques prérequis :
-- un compte Google Drive !
-- un peu d'espace disque sur votre compte Google Drive... 2 Go
+- un compte Google !
 - et... un peu de temps... 30 minutes
 
 ## Lancement du tuto dans Google Colab
