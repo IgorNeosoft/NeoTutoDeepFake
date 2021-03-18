@@ -1,6 +1,6 @@
 ## Ouvrir un fichier ipynb dans Google Colab
 
-Lorsque vous double-cliquez sur https://drive.google.com/open?id=1u7tw5lKkzh6HxPIAag0xKijOkISx3Ptc, vous avez :<br>
+Lorsque vous double-cliquez sur https://drive.google.com/open?id=1swW3eJoC6xWjPiuSxvW0YgQc7vxrZBlS, vous avez :<br>
 ![](images/owc_image1.png)
 
 Cliquer sur "Ouvrir avec" / "Associer d'autres applications".
